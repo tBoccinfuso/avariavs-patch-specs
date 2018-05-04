@@ -1,0 +1,40 @@
+EONI,,,target mode,tooltip (description)
+Level 1,,Distortion,single,Deal slight strength damage.
+L2,fury,☀ Distortion II,single,Deal significant strength damage.
+L3,fury,☀ Distortion III,single,Deal significant strength damage and Scramble the menu of your target.
+L2,karma,∞ Distortion II,party,Deal slight strength damage to the target party.
+L3,karma,∞ Distortion III,party,Deal strength damage to the target party.
+,,,,
+Level 1,,Stone Mantra,single,Grant damage resistance and bonus focus.
+L2,fury,☀ Stone Mantra II,single,Grant significant damage resistance and bonus focus.
+L3,fury,☀ Stone Mantra III,single,Grant profound damage resistance and bonus focus.
+L2,karma,∞ Stone Mantra II,single,Grant damage resistance and bonus focus. Increase spirit 1-stack on self.
+L3,karma,∞ Stone Mantra III,party,Grant damage resistance and bonus focus to the target party. Increase spirit 1-stack on self.
+,,,,
+Level 1,,Purge,single,Dispel unwanted status effects.
+L2,fury,☀ Purge II,single,Dispel unwanted status effects and deal slight strength damage. 
+L3,fury,☀ Purge III,single,Dispel unwanted status effects and Scramble the menu of your target.
+L2,karma,∞ Purge II,single,Dispel unwanted status effects and slightly heal. 
+L3,karma,∞ Purge III,single,Dispel unwanted status effects and slightly heal. 
+,,,,
+Level 1,,Chi,single,Increase speed 1-stack.
+L2,fury,☀ Chi II,single,Increase speed 1-stack. Grant bonus focus.
+L3,fury,☀ Chi III,party,Increase speed 1-stack. Grant bonus focus to the target party.
+L2,karma,∞ Chi II,single,Revive your target with 20% health and increase speed 2-stack.
+L3,karma,∞ Chi III,single,Revive your target with 40% health and increase speed 3-stack.
+,,,,
+Level 1,,Chakra,single,Increase strength 1-stack.
+L2,fury,☀ Chakra II,single,Increase strength and mana 1-stack.
+L3,fury,☀ Chakra III,single,Increase strength and mana 3-stack.
+L2,karma,∞ Chakra II,party,Increase strength 1-stack to the target party.
+L3,karma,∞ Chakra III,party,Increase strength 2-stack to the target party.
+,,,,
+Level 1,,Harmony,single,Increase vitality 1-stack.
+L2,fury,☀ Harmony II,single,Increase vitality and spirit 1-stack.
+L3,fury,☀ Harmony III,party,Increase vitality and spirit 1-stack to the target party.
+L2,karma,∞ Harmony II,single,Increase vitality 2-stack.
+L3,karma,∞ Harmony III,single,Increase vitality 3-stack.
+,,,,
+Focusburn:,,Pyrokinesis,party,Deal excessive strength damage.
+,,Third Eye,party,Heal and profoundly increase speed.
+,,Nirvana,party,"Significantly increase strength, mana, vitality, and spirit."

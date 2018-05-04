@@ -1,0 +1,40 @@
+SERVO,,,target mode,tooltip (description)
+Level 1,,Spam,single,Deal slight strength damage.
+L2,grit ,Ω Spam II,single,Deal slight strength damage.
+L3,grit ,Ω Spam III,party random,Deal significant strength damage randomly split among target party.
+L2,wit,⟡ Spam II,single,Deal slight strength damage.
+L3,wit,⟡ Spam III,single,Deal slight strength damage and interrupt any focus.
+,,,,
+Level 1,,Firewall,single,Block your target from attacks. Take significantly increased damage.
+L2,grit,Ω Firewall II,single,Block your target from attacks. Take increased damage.
+L3,grit,Ω Firewall III,single,Block your target from attacks. Take slightly increased damage.
+L2,wit,⟡ Firewall II,single,Block your target from attacks. Grant yourself bonus focus and take significantly increased damage.
+L3,wit,⟡ Firewall III,single,Block your target from attacks. Grant yourself bonus focus and take significantly increased damage.
+,,,,
+Level 1,,Safe Mode,self,Slightly heal Servo.
+L2,grit,Ω Safe Mode II,self,Heal Servo.
+L3,grit,Ω Safe Mode III,self,Dispel and significantly heal Servo.
+L2,wit,⟡ Safe Mode II,self,Heal Servo. Increase vitality 1-stack.
+L3,wit,⟡ Safe Mode III,self,Heal Servo. Increase vitality and spirit 1-stack.
+,,,,
+Level 1,,Mirror Bot,single,Form a shield to your target that will reflect 75% damage back to the caster.
+L2,grit,Ω Mirror Bot II,single,Form a shield to your target that will reflect 150% damage back to the caster.
+L3,grit,Ω Mirror Bot III,single,Form a shield to your target that will reflect 200% damage back to the caster. Increase spirit 1-stack.
+L2,wit,⟡ Mirror Bot II,single,Form a shield to your target that will reflect 100% damage and 100% status effects back to the caster.
+L3,wit,⟡ Mirror Bot III,single,Form a shield to your target that will reflect 100% damage and 100% status effects back to the caster. Increase spirit 1-stack.
+,,,,
+Level 1,,Overclock,single,Increase speed 1-stack.
+L2,grit,Ω Overclock II,single,Increase speed 2-stack.
+L3,grit,Ω Overclock III,single,Increase speed 3-stack and apply Regeneration.
+L2,wit,⟡ Overclock II,party,Increase speed 1-stack to the target party.
+L3,wit,⟡ Overclock III,party,Increase speed 2-stack to the target party.
+,,,,
+Level 1,,Inversion,single,Invert controls.
+L2,grit,Ω Inversion II,single,Invert controls and decrease vitality 1-stack.
+L3,grit,Ω Inversion III,party,Invert controls and decrease vitality 1-stack of the target party.
+L2,wit,⟡ Inversion II,single,Invert controls and Impair vision.
+L3,wit,⟡ Inversion III,single,Invert controls and Impair vision. Apply Degeneration.
+,,,,
+Focusburn:,,Antivirus,party,Remove unwanted status effects and heal your party.
+,,Omega Protocol,all / party,Deal significant damage... use with caution! 
+,,Conversion,party,Give a shield to your target that will reflect damage and status effects back to the caster.
