@@ -1,0 +1,190 @@
+{
+    "Name": "Joy Nano",
+    "# of use": "2",
+    "target mode": "single",
+    "tooltip (description)": "Significantly heal your target.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Joy Micro",
+    "# of use": "5",
+    "target mode": "single",
+    "tooltip (description)": "Heal your target.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Love Nano",
+    "# of use": "1",
+    "target mode": "single",
+    "tooltip (description)": "Revive your target with significant health.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Love Micro",
+    "# of use": "2",
+    "target mode": "single",
+    "tooltip (description)": "Revive your target.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Empathy Nano",
+    "# of use": "2",
+    "target mode": "party",
+    "tooltip (description)": "Significantly heal the target party.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Patience Micro",
+    "# of use": "4",
+    "target mode": "single",
+    "tooltip (description)": "Slightly heal and apply Regeneration 1-stack.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Cleanse Micro",
+    "# of use": "10",
+    "target mode": "single",
+    "tooltip (description)": "Dispel unwanted status effects.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Cleanse Nano",
+    "# of use": "3",
+    "target mode": "single",
+    "tooltip (description)": "Heal and dispel unwanted status effects.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Panacea Nano",
+    "# of use": "1",
+    "target mode": "party",
+    "tooltip (description)": "Dispel unwanted status effects from the target party.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Electro Micro",
+    "# of use": "3",
+    "target mode": "party",
+    "tooltip (description)": "Deal strength damage the target party.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Focus Nano",
+    "# of use": "1",
+    "target mode": "single",
+    "tooltip (description)": "Grant one level up.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Patience Nano",
+    "# of use": "1",
+    "target mode": "party",
+    "tooltip (description)": "Slightly heal and apply Regeneration 3-stack.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Shame Nano",
+    "# of use": "1",
+    "target mode": "single",
+    "tooltip (description)": "Increase strength and mana 3-stack. Apply Degeneration 3 -stack.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Frenzy Nano",
+    "# of use": "2",
+    "target mode": "single",
+    "tooltip (description)": "Daze and increase speed 3-stack.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Electro Nano",
+    "# of use": "1",
+    "target mode": "party",
+    "tooltip (description)": "Deal significant strength damage to the target party.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Mirror Nano",
+    "# of use": "2",
+    "target mode": "single",
+    "tooltip (description)": "Decrease vitality and spirit 3-stack. Grant 100% reflect damage shield for one turn.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": "."
+}{
+    "Name": "Adrenaline Nano",
+    "# of use": "2",
+    "target mode": "single",
+    "tooltip (description)": "Deal damage equal to 25% of max health, and increase speed 3-stack.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Sedative Nano",
+    "# of use": "3",
+    "target mode": "single",
+    "tooltip (description)": "Drain focus from your target.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Rapture Nano",
+    "# of use": "2",
+    "target mode": "single",
+    "tooltip (description)": "Heal your target with full health.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Empathy Micro",
+    "# of use": "3",
+    "target mode": "party",
+    "tooltip (description)": "Heal the target party.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}{
+    "Name": "Narcotic Nano",
+    "# of use": "1",
+    "target mode": "party",
+    "tooltip (description)": "Drain focus from the target party.",
+    "field5": "",
+    "field6": "",
+    "field7": "",
+    "field8": ""
+}
