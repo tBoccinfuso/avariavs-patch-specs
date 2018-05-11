@@ -1,0 +1,64 @@
+Name,HP,SPD,STR,MNA,VIT,SPR,Ability,Archetype,Focusburn,Item
+aServo,2600,13,50,35,58,55,Firewall,Grit,Antivirus,Rapture Nano
+(defense),,,,,,,Spam,Wit,Omega Protocol,Panacea Nano
+,,,,,,,Safe Mode,,,
+,,,,,,,,,,
+bServo,2500,8,65,35,50,45,Spam,Grit,Omega Protocol,Rapture Nano
+(offense),,,,,,,Mirror Bot,Wit,Conversion,Mirror Nano
+,,,,,,,Overclock,,,
+,,,,,,,,,,
+cServo,2800,13,55,40,50,45,Mirror Bot,Grit,Antivirus,Panacea Nano
+(support),,,,,,,Safe Mode,Wit,Conversion,Mirror Nano
+,,,,,,,Inversion,,,
+,,,,,,,,,,
+dServo,2800,11,55,35,50,50,Spam,Grit,Conversion,Rapture Nano
+(balanced),,,,,,,Firewall,Wit,Omega Protocol,Panacea Nano
+,,,,,,,Inversion,,,
+,,,,,,,,,,
+Larus,1800,8,32,40,38,55,Patience,Karma,Fervor,Cleanse Nano
+(defense),,,,,,,Joy,Wit,Optimism,Joy Nano
+,,,,,,,Love,,,
+,,,,,,,,,,
+Arisa,2000,5,32,40,40,53,Indignation,Karma,Optimism,Cleanse Nano
+(balanced),,,,,,,Joy,Wit,Chaos,Adrenaline Nano
+,,,,,,,Love,,,
+,,,,,,,,,,
+Keres,2000,7,40,47,38,47,Indignation,Karma,Fervor,Love Nano
+(offense),,,,,,,Pity,Wit,Chaos,Adrenaline Nano
+,,,,,,,Despair,,,
+,,,,,,,,,,
+Hume Scholar,2100,8,32,40,38,53,Despair,Karma,Fervor,Love Nano
+(support),,,,,,,Pity,Wit,Optimism,Empathy Nano
+,,,,,,,Patience,,,
+,,,,,,,,,,
+Kasper,2300,6,41,38,43,45,Distortion,Fury,Pyrokinesis,Sedative Nano
+(balanced),,,,,,,Purge,Karma,Third Eye,Love Nano
+,,,,,,,Harmony,,,
+,,,,,,,,,,
+Ev,2200,5,48,38,40,45,Distortion,Fury,Pyrokinesis,Narcotic Nano
+(offense),,,,,,,Purge,Karma,Nirvana,Focus Nano
+,,,,,,,Chakra,,,
+,,,,,,,,,,
+Gia,2100,4,32,45,36,40,Chi,Fury,Pyrokinesis,Narcotic Nano
+(support),,,,,,,Stone Mantra,Karma,Nirvana,Cleanse Nano
+,,,,,,,Chakra,,,
+,,,,,,,,,,
+Eoni Elder,2400,7,41,38,45,50,Harmony,Fury,Third Eye,Sedative Nano
+(defense),,,,,,,Stone Mantra,Karma,Nirvana,Love Nano
+,,,,,,,Purge,,,
+,,,,,,,,,,
+Betany,2100,5,42,42,44,48,Rift,Shadow,Slaughter,Patience Nano
+(balanced),,,,,,,Shatter,Fury,Terrify,Shame Nano
+,,,,,,,Transfusion,,,
+,,,,,,,,,,
+Dythor,2000,4,44,50,40,48,Rift,Shadow,Demise,Patience Nano
+(offense),,,,,,,Scorch,Fury,Slaughter,Shame Nano
+,,,,,,,Crush,,,
+,,,,,,,,,,
+Cyrus,2100,3,35,41,40,46,Scorch,Shadow,Demise,Patience Nano
+(support),,,,,,,Injure,Fury,Terrify,Love Nano
+,,,,,,,Crush,,,
+,,,,,,,,,,
+HEL Agent,2300,6,40,43,44,48,Injure,Shadow,Demise,Joy Nano
+(defense),,,,,,,Transfusion,Fury,Terrify,Love Nano
+,,,,,,,Shatter,,,

@@ -1,0 +1,259 @@
+{
+    "EONI": "L2",
+    "field2": "fury",
+    "field3": "☀ Distortion II",
+    "target mode": "single",
+    "tooltip (description)": "Deal significant strength damage."
+}{
+    "EONI": "L1",
+    "field2": "",
+    "field3": "Distortion",
+    "target mode": "single",
+    "tooltip (description)": "Deal slight strength damage."
+}{
+    "EONI": "L3",
+    "field2": "fury",
+    "field3": "☀ Distortion III",
+    "target mode": "single",
+    "tooltip (description)": "Deal significant strength damage and Disrupt the menu of your target."
+}{
+    "EONI": "L2",
+    "field2": "fury",
+    "field3": "☀ Stone Mantra II",
+    "target mode": "single",
+    "tooltip (description)": "Grant significant damage resistance and bonus focus."
+}{
+    "EONI": "L2",
+    "field2": "karma",
+    "field3": "∞ Distortion II",
+    "target mode": "party",
+    "tooltip (description)": "Deal slight strength damage to the target party."
+}{
+    "EONI": "L1",
+    "field2": "",
+    "field3": "Stone Mantra",
+    "target mode": "single",
+    "tooltip (description)": "Grant damage resistance and bonus focus."
+}{
+    "EONI": "L3",
+    "field2": "karma",
+    "field3": "∞ Distortion III",
+    "target mode": "party",
+    "tooltip (description)": "Deal strength damage to the target party."
+}{
+    "EONI": "L3",
+    "field2": "fury",
+    "field3": "☀ Stone Mantra III",
+    "target mode": "single",
+    "tooltip (description)": "Grant profound damage resistance and bonus focus."
+}{
+    "EONI": "L2",
+    "field2": "karma",
+    "field3": "∞ Stone Mantra II",
+    "target mode": "single",
+    "tooltip (description)": "Grant damage resistance and bonus focus. Increase spirit 1-stack on self."
+}{
+    "EONI": "L3",
+    "field2": "karma",
+    "field3": "∞ Stone Mantra III",
+    "target mode": "party",
+    "tooltip (description)": "Grant damage resistance and bonus focus to the target party. Increase spirit 1-stack on self."
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "EONI": "L1",
+    "field2": "",
+    "field3": "Purge",
+    "target mode": "single",
+    "tooltip (description)": "Dispel unwanted status effects."
+}{
+    "EONI": "L2",
+    "field2": "fury",
+    "field3": "☀ Purge II",
+    "target mode": "single",
+    "tooltip (description)": "Dispel unwanted status effects and deal slight strength damage."
+}{
+    "EONI": "L3",
+    "field2": "fury",
+    "field3": "☀ Purge III",
+    "target mode": "single",
+    "tooltip (description)": "Dispel unwanted status effects and Disrupt the menu of your target."
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "EONI": "L3",
+    "field2": "karma",
+    "field3": "∞ Purge III",
+    "target mode": "single",
+    "tooltip (description)": "Dispel unwanted status effects and slightly heal."
+}{
+    "EONI": "L1",
+    "field2": "",
+    "field3": "Chi",
+    "target mode": "single",
+    "tooltip (description)": "Increase speed 1-stack."
+}{
+    "EONI": "L2",
+    "field2": "karma",
+    "field3": "∞ Purge II",
+    "target mode": "single",
+    "tooltip (description)": "Dispel unwanted status effects and slightly heal."
+}{
+    "EONI": "L3",
+    "field2": "fury",
+    "field3": "☀ Chi III",
+    "target mode": "party",
+    "tooltip (description)": "Increase speed 1-stack. Grant bonus focus to the target party."
+}{
+    "EONI": "L2",
+    "field2": "karma",
+    "field3": "∞ Chi II",
+    "target mode": "single",
+    "tooltip (description)": "Revive your target with 20% health and increase speed 2-stack."
+}{
+    "EONI": "L2",
+    "field2": "fury",
+    "field3": "☀ Chi II",
+    "target mode": "single",
+    "tooltip (description)": "Increase speed 1-stack. Grant bonus focus."
+}{
+    "EONI": "L3",
+    "field2": "karma",
+    "field3": "∞ Chi III",
+    "target mode": "single",
+    "tooltip (description)": "Revive your target with 40% health and increase speed 3-stack."
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "EONI": "L1",
+    "field2": "",
+    "field3": "Chakra",
+    "target mode": "single",
+    "tooltip (description)": "Increase strength 1-stack."
+}{
+    "EONI": "L2",
+    "field2": "fury",
+    "field3": "☀ Chakra II",
+    "target mode": "single",
+    "tooltip (description)": "Increase strength and mana 1-stack."
+}{
+    "EONI": "L3",
+    "field2": "fury",
+    "field3": "☀ Chakra III",
+    "target mode": "single",
+    "tooltip (description)": "Increase strength and mana 3-stack."
+}{
+    "EONI": "L2",
+    "field2": "karma",
+    "field3": "∞ Chakra II",
+    "target mode": "party",
+    "tooltip (description)": "Increase strength 1-stack to the target party."
+}{
+    "EONI": "L3",
+    "field2": "karma",
+    "field3": "∞ Chakra III",
+    "target mode": "party",
+    "tooltip (description)": "Increase strength 2-stack to the target party."
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "EONI": "L1",
+    "field2": "",
+    "field3": "Harmony",
+    "target mode": "single",
+    "tooltip (description)": "Increase vitality 1-stack."
+}{
+    "EONI": "L2",
+    "field2": "fury",
+    "field3": "☀ Harmony II",
+    "target mode": "single",
+    "tooltip (description)": "Increase vitality and spirit 1-stack."
+}{
+    "EONI": "L3",
+    "field2": "fury",
+    "field3": "☀ Harmony III",
+    "target mode": "party",
+    "tooltip (description)": "Increase vitality and spirit 1-stack to the target party."
+}{
+    "EONI": "L2",
+    "field2": "karma",
+    "field3": "∞ Harmony II",
+    "target mode": "single",
+    "tooltip (description)": "Increase vitality 2-stack."
+}{
+    "EONI": "L3",
+    "field2": "karma",
+    "field3": "∞ Harmony III",
+    "target mode": "single",
+    "tooltip (description)": "Increase vitality 3-stack."
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "Pyrokinesis",
+    "target mode": "party",
+    "tooltip (description)": "Deal excessive strength damage."
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "Pyrokinesis boost",
+    "target mode": "party",
+    "tooltip (description)": ""
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "Third Eye",
+    "target mode": "party",
+    "tooltip (description)": "Heal and profoundly increase speed."
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "Third Eye boost",
+    "target mode": "party",
+    "tooltip (description)": ""
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "Nirvana",
+    "target mode": "party",
+    "tooltip (description)": "Significantly increase strength, mana, vitality, and spirit."
+}{
+    "EONI": "",
+    "field2": "",
+    "field3": "Nirvana boost",
+    "target mode": "party",
+    "tooltip (description)": ""
+}

@@ -1,0 +1,43 @@
+{
+    "PS4": "circle",
+    "Xbox": "B",
+    "Left keyboard": "G",
+    "Right keyboard": "'",
+    "field5": "back"
+}{
+    "PS4": "square",
+    "Xbox": "X",
+    "Left keyboard": "X",
+    "Right keyboard": "(mouse only)",
+    "field5": "toggle party targets"
+}{
+    "PS4": "",
+    "Xbox": "",
+    "Left keyboard": "",
+    "Right keyboard": "",
+    "field5": ""
+}{
+    "PS4": "X",
+    "Xbox": "A",
+    "Left keyboard": "F",
+    "Right keyboard": "enter",
+    "field5": "confirm/select"
+}{
+    "PS4": "triangle",
+    "Xbox": "Y",
+    "Left keyboard": "tab",
+    "Right keyboard": "",
+    "field5": "show details"
+}{
+    "PS4": "L trigger",
+    "Xbox": "L trigger",
+    "Left keyboard": "Q",
+    "Right keyboard": "[",
+    "field5": ""
+}{
+    "PS4": "R trigger",
+    "Xbox": "R trigger",
+    "Left keyboard": "E",
+    "Right keyboard": "]",
+    "field5": ""
+}

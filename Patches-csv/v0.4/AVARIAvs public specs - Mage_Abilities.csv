@@ -1,0 +1,44 @@
+MAGE,,,target mode,tooltip (description)
+L1,,Indignation,single,Deal slight mana damage.
+L2,karma,∞ Indignation II,single,Deal mana damage.
+L3,karma,∞ Indignation III,single,Deal significant mana damage.
+L2,wit,⟡ Indignation II,single,Deal slight mana damage and Disorient aim.
+L3,wit,⟡ Indignation III,party,Deal slight mana damage and Disorient aim of the target party.
+,,,,
+L1,,Joy,single,Heal your target.
+L2,karma,∞ Joy II,single,Significantly heal your target.
+L3,karma,∞ Joy III,single,Profoundly heal and increase spirit 1-stack.
+L2,wit,⟡ Joy II,party,Slightly heal the target party.
+L3,wit,⟡ Joy III,party,Heal and increase spirit 1-stack of the target party.
+,,,,
+L1,,Love,single,Revive your target with 20% health.
+L2,karma,∞ Love III,single,Revive your target with 40% health.
+L3,karma,∞ Love II,single,Revive your target with 75% health.
+L2,wit,⟡ Love II,single,Revive your target with 20% health and apply Regeneration 1-stack.
+L3,wit,⟡ Love III,single,Revive your target with 20% health and apply Regeneration 3-stack.
+,,,,
+L1,,Pity,single,Dispel unwanted status effects.
+L2,karma,∞ Pity II,single,Dispel unwanted status effects and heal your target.
+L3,karma,∞ Pity III,single,Dispel unwanted status effects and significantly heal your target.
+L2,wit,⟡ Pity II,single,Dispel unwanted status effects from your target and yourself.
+L3,wit,⟡ Pity III,single,Dispel unwanted status effects from your target. Copy their positive effects onto yourself.
+,,,,
+L1,,Patience,single,"Apply Regeneration 1-stack, which heals them each time an action is performed."
+L2,karma,∞ Patience II,single,Apply Regeneration 2-stack.
+L3,karma,∞ Patience III,single,Apply Regeneration 3-stack.
+L2,wit,⟡ Patience II,single,Apply Regeneration 1-stack and slightly heal your target.
+L3,wit,⟡ Patience III,single,Apply Regeneration 1-stack and heal your target.
+,,,,
+L1,,Despair,single,Decrease speed 1-stack.
+L2,karma,∞ Despair II,party,Decrease speed 1-stack to the target party.
+L3,karma,∞ Despair III,party,Decrease speed 2-stack to the target party.
+L2,wit,⟡ Despair II,single,Decrease speed 1-stack and Disorient aim. 
+L3,wit,⟡ Despair III,single,Decrease speed 3-stack and Disorient aim. 
+,,,,
+,,,,
+,,Optimism,party,Revive your party and apply regeneration.
+,,Optimism boost,party,
+,,Fervor boost,party,Revive and significantly heal your party.
+,,Fervor,party,
+,,Chaos,party,Deal significant mana damage.
+,,Chaos boost,party,

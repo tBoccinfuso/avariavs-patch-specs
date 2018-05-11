@@ -1,0 +1,259 @@
+{
+    "SERVO": "L2",
+    "field2": "grit",
+    "field3": "Ω Spam II",
+    "target mode": "single",
+    "tooltip (description)": "Deal slight strength damage."
+}{
+    "SERVO": "L1",
+    "field2": "",
+    "field3": "Spam",
+    "target mode": "single",
+    "tooltip (description)": "Deal slight strength damage."
+}{
+    "SERVO": "L3",
+    "field2": "grit",
+    "field3": "Ω Spam III",
+    "target mode": "party random",
+    "tooltip (description)": "Deal significant strength damage randomly split among target party."
+}{
+    "SERVO": "L2",
+    "field2": "wit",
+    "field3": "⟡ Spam II",
+    "target mode": "single",
+    "tooltip (description)": "Deal slight strength damage."
+}{
+    "SERVO": "L3",
+    "field2": "wit",
+    "field3": "⟡ Spam III",
+    "target mode": "single",
+    "tooltip (description)": "Deal slight strength damage and reduce focus."
+}{
+    "SERVO": "L1",
+    "field2": "",
+    "field3": "Firewall",
+    "target mode": "single",
+    "tooltip (description)": "Block your target from attacks. Take significantly increased damage."
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "SERVO": "L2",
+    "field2": "grit",
+    "field3": "Ω Firewall II",
+    "target mode": "single",
+    "tooltip (description)": "Block your target from attacks. Take increased damage."
+}{
+    "SERVO": "L2",
+    "field2": "wit",
+    "field3": "⟡ Firewall II",
+    "target mode": "single",
+    "tooltip (description)": "Block your target from attacks. Grant yourself bonus focus and take significantly increased damage."
+}{
+    "SERVO": "L3",
+    "field2": "wit",
+    "field3": "⟡ Firewall III",
+    "target mode": "single",
+    "tooltip (description)": "Block your target from attacks. Grant yourself bonus focus and take significantly increased damage."
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "SERVO": "L1",
+    "field2": "",
+    "field3": "Safe Mode",
+    "target mode": "self",
+    "tooltip (description)": "Slightly heal Servo."
+}{
+    "SERVO": "L2",
+    "field2": "grit",
+    "field3": "Ω Safe Mode II",
+    "target mode": "self",
+    "tooltip (description)": "Heal Servo."
+}{
+    "SERVO": "L3",
+    "field2": "grit",
+    "field3": "Ω Safe Mode III",
+    "target mode": "self",
+    "tooltip (description)": "Dispel and significantly heal Servo."
+}{
+    "SERVO": "L2",
+    "field2": "wit",
+    "field3": "⟡ Safe Mode II",
+    "target mode": "self",
+    "tooltip (description)": "Heal Servo. Increase vitality 1-stack."
+}{
+    "SERVO": "L3",
+    "field2": "wit",
+    "field3": "⟡ Safe Mode III",
+    "target mode": "self",
+    "tooltip (description)": "Heal Servo. Increase vitality and spirit 1-stack."
+}{
+    "SERVO": "L1",
+    "field2": "",
+    "field3": "Mirror Bot",
+    "target mode": "single",
+    "tooltip (description)": "Form a shield that reflects 75% damage back to the caster."
+}{
+    "SERVO": "L3",
+    "field2": "grit",
+    "field3": "Ω Firewall III",
+    "target mode": "single",
+    "tooltip (description)": "Block your target from attacks. Take slightly increased damage."
+}{
+    "SERVO": "L3",
+    "field2": "grit",
+    "field3": "Ω Mirror Bot III",
+    "target mode": "single",
+    "tooltip (description)": "Form a shield that reflects 200% damage back to the caster. Increase spirit 1-stack."
+}{
+    "SERVO": "L2",
+    "field2": "grit",
+    "field3": "Ω Mirror Bot II",
+    "target mode": "single",
+    "tooltip (description)": "Form a shield that reflects 150% damage back to the caster."
+}{
+    "SERVO": "L2",
+    "field2": "wit",
+    "field3": "⟡ Mirror Bot II",
+    "target mode": "single",
+    "tooltip (description)": "Form a shield that reflects 100% damage and 100% status effects back to the caster."
+}{
+    "SERVO": "L3",
+    "field2": "wit",
+    "field3": "⟡ Mirror Bot III",
+    "target mode": "single",
+    "tooltip (description)": "Form a shield that reflects 100% damage and 100% status effects back to the caster. Increase spirit 1-stack."
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "SERVO": "L1",
+    "field2": "",
+    "field3": "Overclock",
+    "target mode": "single",
+    "tooltip (description)": "Increase speed 1-stack."
+}{
+    "SERVO": "L3",
+    "field2": "grit",
+    "field3": "Ω Overclock III",
+    "target mode": "single",
+    "tooltip (description)": "Increase speed 3-stack and apply Regeneration."
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "SERVO": "L3",
+    "field2": "wit",
+    "field3": "⟡ Overclock III",
+    "target mode": "party",
+    "tooltip (description)": "Increase speed 2-stack to the target party."
+}{
+    "SERVO": "L2",
+    "field2": "grit",
+    "field3": "Ω Inversion II",
+    "target mode": "single",
+    "tooltip (description)": "Invert controls and decrease vitality 1-stack."
+}{
+    "SERVO": "L2",
+    "field2": "wit",
+    "field3": "⟡ Overclock II",
+    "target mode": "party",
+    "tooltip (description)": "Increase speed 1-stack to the target party."
+}{
+    "SERVO": "L3",
+    "field2": "grit",
+    "field3": "Ω Inversion III",
+    "target mode": "party",
+    "tooltip (description)": "Invert controls and decrease vitality 1-stack of the target party."
+}{
+    "SERVO": "L1",
+    "field2": "",
+    "field3": "Inversion",
+    "target mode": "single",
+    "tooltip (description)": "Invert controls."
+}{
+    "SERVO": "L2",
+    "field2": "grit",
+    "field3": "Ω Overclock II",
+    "target mode": "single",
+    "tooltip (description)": "Increase speed 2-stack."
+}{
+    "SERVO": "L2",
+    "field2": "wit",
+    "field3": "⟡ Inversion II",
+    "target mode": "single",
+    "tooltip (description)": "Invert controls and Impair vision."
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "SERVO": "L3",
+    "field2": "wit",
+    "field3": "⟡ Inversion III",
+    "target mode": "single",
+    "tooltip (description)": "Invert controls and Impair vision. Apply Degeneration."
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "Antivirus boost",
+    "target mode": "party",
+    "tooltip (description)": ""
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "Antivirus",
+    "target mode": "party",
+    "tooltip (description)": "Remove unwanted status effects and heal your party."
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "Omega Protocol",
+    "target mode": "allexceptself",
+    "tooltip (description)": "Deal significant damage... use with caution!"
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "",
+    "target mode": "",
+    "tooltip (description)": ""
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "Omega Protocol boost",
+    "target mode": "party",
+    "tooltip (description)": ""
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "Conversion",
+    "target mode": "party",
+    "tooltip (description)": "Give a shield to your target that will reflect damage and status effects back to the caster."
+}{
+    "SERVO": "",
+    "field2": "",
+    "field3": "Conversion boost",
+    "target mode": "party",
+    "tooltip (description)": ""
+}

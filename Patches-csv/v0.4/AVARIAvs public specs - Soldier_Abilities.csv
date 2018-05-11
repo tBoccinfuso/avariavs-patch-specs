@@ -1,0 +1,44 @@
+MANA SOLDIER,,,target mode,tooltip (description)
+L1,,Rift,single,Deal hybrid damage.
+L2,shadow,∆ Rift II,single,"Siphon health, damaging your target and healing yourself."
+L3,shadow,∆ Rift III,single,"Siphon health, damaging your target and healing yourself."
+L2,fury,☀ Rift II,single,Deal significant hybrid damage.
+L3,fury,☀ Rift III,single,Deal profound hybrid damage.
+,,,,
+L1,,Transfusion,single,Slightly heal your target. Damage yourself in the process.
+L2,shadow,∆ Transfusion II,single,Revive your target with 50% health. Damage yourself in the process.
+L3,shadow,∆ Transfusion III,single,Revive your target with 100% health. Damage yourself in the process.
+L2,fury,☀ Transfusion II,single,Significantly heal your target. Damage yourself in the process.
+L3,fury,☀ Transfusion III,single,Fully heal your target. Damage yourself in the process.
+,,,,
+L1,,Shatter,single,Reduce focus of your target.
+L2,shadow,∆ Shatter II,single,Reduce focus and decrease speed 1-stack.
+L3,shadow,∆ Shatter III,single,Reduce focus and decrease speed 2-stack.
+L2,fury,☀ Shatter II,single,Reduce focus and deal slight hybrid damage.
+L3,fury,☀ Shatter III,single,Reduce focus and deal hybrid damage.
+,,,,
+L1,,Scorch,single,"Apply Degeneration 1-stack, which deals damage each time an action is performed."
+L2,shadow,∆ Scorch II,single,Apply Degeneration 2-stack.
+L3,shadow,∆ Scorch III,single,Apply Degeneration 3-stack and Daze.
+L2,fury,☀ Scorch II,single,Apply Degeneration 1-stack and deal slight hybrid damage.
+L3,fury,☀ Scorch III,party,Apply Degeneration 1-stack and deal slight hybrid damage to the target party.
+,,,,
+L1,,Injure,single,Decrease mana 1-stack.
+L2,shadow,∆ Injure II,single,Decrease mana 2-stack Daze.
+L3,shadow,∆ Injure III,single,Decrease mana 3-stack and Daze.
+L2,fury,☀ Injure II,single,Decrease strength and mana 1-stack.
+L3,fury,☀ Injure III,party,Decrease strength and mana 1-stack to the target party.
+,,,,
+L1,,Crush,single,Decrease spirit 1-stack.
+L2,shadow,∆ Crush II,single,Decrease spirit 2-stack and Daze.
+L3,shadow,∆ Crush III,party,Decrease spirit 2-stack and Daze the target party.
+L2,fury,☀ Crush II,single,Decrease vitality and spirit 1-stack.
+L3,fury,☀ Crush III,single,Decrease vitality and spirit 3-stack.
+,,,,
+,,,,
+,,Slaughter,lowest HP,Eliminate the enemy with the lowest health.
+,,Slaughter boost,lowest HP,
+,,Demise,party,Deal damage equal to a fraction of the enemy's remaining HP.
+,,Demise boost,party,
+,,Terrify,party,"Significantly decrease strength, mana, vitality, and spirit."
+,,Terrify boost,party,
